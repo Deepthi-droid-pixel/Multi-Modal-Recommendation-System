@@ -46,3 +46,13 @@ Multi-Modal-Recommendation-System/
 │
 ├── .gitignore
 └── README.md
+
+## 👥 Team
+
+This project is being developed as a collaborative academic project.
+
+### Team Members
+
+- L.Surya Deepthi Sri
+- Irene Ramala
+- Prem Jaganath Bhoi
